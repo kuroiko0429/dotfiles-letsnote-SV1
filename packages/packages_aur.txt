@@ -1,0 +1,10 @@
+# --- Browsers (AUR) ---
+brave-bin
+zen-browser-bin
+
+# --- Communication ---
+vesktop-bin
+zoom
+
+# --- Media ---
+spotify

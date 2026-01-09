@@ -1,0 +1,48 @@
+# --- Base & Network ---
+git
+base-devel
+wget
+curl
+tailscale
+
+# --- Shell & Terminal ---
+zsh
+kitty
+fzf
+bat
+eza
+btop
+fastfetch
+neofetch
+wl-clipboard
+
+# --- Browsers (Official) ---
+chromium
+torbrowser-launcher
+
+# --- Development ---
+code
+neovim
+docker
+python
+nodejs
+go
+rustup
+ruby
+arduino
+
+# --- Media & Creativity ---
+vlc
+mpv
+obs-studio
+ffmpeg
+gimp
+inkscape
+
+# --- Office & Tools ---
+libreoffice-fresh
+obsidian
+
+# --- Keyboard layout ---
+fcitx5-im
+fcitx5-mozc
