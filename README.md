@@ -1,2 +1,5 @@
 # dotfiles-letsnote-SV1
-Let's note SV1のLet's note SV1no
+
+## about
+
+Let's note SV1 の Let's note SV1 による Let's note SV1 のための dotfile
